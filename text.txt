@@ -1,0 +1,11 @@
+# hej
+Peter Jörgensen1@Peter MINGW64 /c/Skola/gitlabb1 (main)
+$ git log
+commit 75fa174f6c3d2e2fd053478cc6943a008758c9b4 (HEAD -> main, origin/main, new_branch)
+Author: Peter Jorgensen <dasbomber.jorgensen@gmail.com>
+Date:   Thu Nov 5 16:06:12 2020 +0100
+
+    first commit
+
+Peter Jörgensen1@Peter MINGW64 /c/Skola/gitlabb1 (main)
+$
